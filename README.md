@@ -40,7 +40,7 @@ In this project I used my learned skills from my previous projects (URLpicSaver 
 ##### Images/Videos (Version date 24.7.2023)
 
 ###### Image: Cinema - Example
-![urlpicsaver_1](https://github.com/ramitammela/URLpicSaver/assets/33514265/f04e524a-167e-46f3-904b-69d3fa9b23d7)
+![minicinema3D_5](https://github.com/ramitammela/MiniCinema3D/assets/33514265/30894197-85f7-494f-b9f7-4b2cc2f306ab)
 
 ###### Image: Cinema - Video Controller & Saved Settings .txt file
 ![minicinema3D_4](https://github.com/ramitammela/MiniCinema3D/assets/33514265/85f183cb-e7d2-4761-a1ba-d6c4b48b39a0)
