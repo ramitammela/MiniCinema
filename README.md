@@ -46,7 +46,7 @@ In this project I used my learned skills from my previous projects (URLpicSaver 
 ![minicinema3D_4](https://github.com/ramitammela/MiniCinema3D/assets/33514265/85f183cb-e7d2-4761-a1ba-d6c4b48b39a0)
 
 ###### Image: Cinema - Room
-![minicinema3D_1](https://github.com/ramitammela/MiniCinema3D/assets/33514265/6c009104-1116-4c10-a7b8-c91ac3122b5b)
+![minicinema3D_1](https://github.com/ramitammela/MiniCinema3D/assets/33514265/c994aaa4-5f87-46ba-b479-54068f933eec)
 
 ###### Image: Poster - Example
 ![minicinema3D_3](https://github.com/ramitammela/MiniCinema3D/assets/33514265/e2ba6548-f0b2-4aa0-a6f6-1c2d77182e6e)
@@ -54,6 +54,7 @@ In this project I used my learned skills from my previous projects (URLpicSaver 
 ###### Image: Poster - UI Controller & Saved Settings .txt file
 ![minicinema3D_2](https://github.com/ramitammela/MiniCinema3D/assets/33514265/a2093eaf-cd43-4eeb-b804-9d96d78d790c)
 
+##
 
 ###### Video: Example
 https://github.com/ramitammela/MiniCinema3D/assets/33514265/3784c55d-9b1c-44e7-8f30-8dabd1426d91
