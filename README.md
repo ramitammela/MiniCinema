@@ -1,4 +1,4 @@
-# URLpicSaver
+# MiniCinema3D
 **Year:** Summer 2023 - work in progress  
 **Made with:** Unity & C# language  
 
@@ -8,26 +8,27 @@ URLpicSaver is a self made tool for making digital online image collections. URL
 
 ##### Features added so far  
 
-#### Features - Video Player & Cinema Room Controls 
-❍ Video Player & UI Control Window
-❍ Play Videos from selected File or Folder
-❍ Autoplay plays next video if video ends & at start random Video will be loaded (if folder selected)
-❍ Screen Capture (Share Monitor screen in game on the big screen for example to play movies from VLC or web browser)
-❍ Video Controls: Time Slider, Video Speed, Play next file (if folder selected).
-❍ Cinema room Controls: LED strips & Ceiling LED's color and intensity is customizable
+#### Features - Video Player & Cinema Room Controls   
+❍ Video Player & UI Control Window  
+❍ Play Videos from selected File or Folder  
+❍ Autoplay plays next video if video ends & at start random Video will be loaded (if folder selected)  
+❍ Screen Capture (Share Monitor screen in game on the big screen for example to play movies from VLC or web browser)  
+❍ Video Controls: Time Slider, Video Speed, Play next file (if folder selected).  
+❍ Cinema room Controls: LED strips & Ceiling LED's color and intensity is customizable  
 ❍ Save settings into Text File / Read settings from Text File
 
-#### Features - Poster
-❍ Poster & UI Control Window
-❍ Load Images locally from selected File or Folder. Load Images from URL or random URL from URLpicSaver's Collection.txt file
-❍ Timer
-❍ Frame can be toggled on/off
+#### Features - Poster  
+❍ Poster & UI Control Window  
+❍ Load Images locally from selected File or Folder.   
+❍ Load Images from URL or random URL from URLpicSaver's Collection.txt file  
+❍ Timer  
+❍ Frame can be toggled on/off    
 ❍ Save settings into Text File / Read settings from Text File
 
-#### Features - Other
-❍ FPS Controls
-❍ Camera Zoom
-❍ Player can sit on the chairs
+#### Features - Other  
+❍ FPS Controls  
+❍ Camera Zoom  
+❍ Player can sit on the chairs  
 ❍ Camera Filters: Normal, Black&White, Sepia, Warm, Red Only, Blue, Pink, Rainbows
 
 ##
