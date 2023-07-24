@@ -1,12 +1,16 @@
 # MiniCinema3D
-**Year:** Summer 2023 - work in progress  
+**Year:** Summer 2023 - work in progress (est. Fall 2023)  
 **Made with:** Unity & C# language  
 
-URLpicSaver is a self made tool for making digital online image collections. URLpicSaver creates single text file and adds all image links into text file that user inputs. It is possible also to add Tags and Names for each link. URLpicSaver can browse added images and filter results by Tag or Name, it is also possible to delete or edit existing image links, Names and Tags. User Interface Colors, buttons, text colors etc. are customizable.
+Video player plays video on the big screen in game. Posters that loads images (locally & URL), Customizable Lights. Settings Saving into .txt files.
+In this project I used my learned skills from my previous projects (URLpicSaver and PhotoWidget) this time I wanted to try loading Video Files using Unity's Video Player.   
+  
+**Currently:**  
+**Polishing phase:** Project is about done and fully functional. Still needs a little work in polishing/cleaning the scripts and graphics needs some more work. 
 
 ##
 
-##### Features added so far  
+##### (Features added so far)  
 
 #### Features - Video Player & Cinema Room Controls   
 ❍ Video Player & UI Control Window  
@@ -19,7 +23,7 @@ URLpicSaver is a self made tool for making digital online image collections. URL
 
 #### Features - Poster  
 ❍ Poster & UI Control Window  
-❍ Load Images locally from selected File or Folder.   
+❍ Load Images locally from selected File or Folder.
 ❍ Load Images from URL or random URL from URLpicSaver's Collection.txt file  
 ❍ Timer  
 ❍ Frame can be toggled on/off    
@@ -33,29 +37,22 @@ URLpicSaver is a self made tool for making digital online image collections. URL
 
 ##
 
-###### Image: Add new Window
-![urlpicsaver_2](https://github.com/ramitammela/URLpicSaver/assets/33514265/4c98d63f-d0e3-4f53-9131-8b49c44db44a)
+##### Images (Version date 25.7.2023)
 
-###### Image: Collection View
+###### Image: Cinema - Example
 ![urlpicsaver_1](https://github.com/ramitammela/URLpicSaver/assets/33514265/f04e524a-167e-46f3-904b-69d3fa9b23d7)
 
-###### Image: Collection file (saves URL, tag and name)
-![urlpicsaver_files](https://github.com/ramitammela/URLpicSaver/assets/33514265/4ef5ba13-ad85-495b-ac03-36a81b5804d1)
+###### Image: Cinema - Video Controller & Saved Settings .txt file
+![urlpicsaver_1](https://github.com/ramitammela/URLpicSaver/assets/33514265/f04e524a-167e-46f3-904b-69d3fa9b23d7)
 
-###### Image: Settings Window + Custom Color Theme Settings
-![urlpicsaver_settings2](https://github.com/ramitammela/URLpicSaver/assets/33514265/a9d233b6-ae3a-4e15-80e2-24f3e81759f6)
+###### Image: Cinema - Room
+![minicinema3D_1](https://github.com/ramitammela/MiniCinema3D/assets/33514265/6c009104-1116-4c10-a7b8-c91ac3122b5b)
 
-###### Image: Edit Window
-![urlpicsaver_4](https://github.com/ramitammela/URLpicSaver/assets/33514265/759b289b-dccd-4f44-9f5a-495081a6731f)
+###### Image: Poster - Example
+![minicinema3D_3](https://github.com/ramitammela/MiniCinema3D/assets/33514265/e2ba6548-f0b2-4aa0-a6f6-1c2d77182e6e)
 
-###### Image: Filter Window
-![urlpicsaver_3](https://github.com/ramitammela/URLpicSaver/assets/33514265/52a87043-fbda-43d0-9ca6-bf076cdf7af8)
+###### Image: Poster - UI Controller & Saved Settings .txt file
+![minicinema3D_2](https://github.com/ramitammela/MiniCinema3D/assets/33514265/a2093eaf-cd43-4eeb-b804-9d96d78d790c)
 
 
 ##
-
-
-#### Videos will be added later!
-
-
-
