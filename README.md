@@ -1,32 +1,34 @@
 # URLpicSaver
-**Year:** 2023  
+**Year:** Summer 2023 - work in progress  
 **Made with:** Unity & C# language  
-✔️ Complete Project
-
-**Version:** 1.0  
-**Build Date:** 1.5.2023  
 
 URLpicSaver is a self made tool for making digital online image collections. URLpicSaver creates single text file and adds all image links into text file that user inputs. It is possible also to add Tags and Names for each link. URLpicSaver can browse added images and filter results by Tag or Name, it is also possible to delete or edit existing image links, Names and Tags. User Interface Colors, buttons, text colors etc. are customizable.
 
-Download at: https://github.com/ramitammela/URLpicSaver/releases/tag/Build
-
 ##
 
-###### Main Features  
-❍ Add URL image links  
-❍ Add Tag and Name (optional)  
-❍ Edit/Remove URL, Tag or Name  
-❍ Browse added URL images  
-❍ Filter images by Tag, Name or both  
-❍ Save Tags & Names in Filter Window as shortcut buttons  
-❍ Save websites as bookmarks  
-❍ Multiple Collections  
-❍ Back Up & Clear All -buttons  
-❍ Copy image links  
-❍ Customizable UI/User Interface Colors with Color Picker 
+##### Features added so far  
 
-###### Icon
-![Icon2b](https://user-images.githubusercontent.com/33514265/235365633-1634b3c5-7c54-42db-9f35-00284d7997a0.png)
+#### Features - Video Player & Cinema Room Controls 
+❍ Video Player & UI Control Window
+❍ Play Videos from selected File or Folder
+❍ Autoplay plays next video if video ends & at start random Video will be loaded (if folder selected)
+❍ Screen Capture (Share Monitor screen in game on the big screen for example to play movies from VLC or web browser)
+❍ Video Controls: Time Slider, Video Speed, Play next file (if folder selected).
+❍ Cinema room Controls: LED strips & Ceiling LED's color and intensity is customizable
+❍ Save settings into Text File / Read settings from Text File
+
+#### Features - Poster
+❍ Poster & UI Control Window
+❍ Load Images locally from selected File or Folder. Load Images from URL or random URL from URLpicSaver's Collection.txt file
+❍ Timer
+❍ Frame can be toggled on/off
+❍ Save settings into Text File / Read settings from Text File
+
+#### Features - Other
+❍ FPS Controls
+❍ Camera Zoom
+❍ Player can sit on the chairs
+❍ Camera Filters: Normal, Black&White, Sepia, Warm, Red Only, Blue, Pink, Rainbows
 
 ##
 
@@ -52,20 +54,7 @@ Download at: https://github.com/ramitammela/URLpicSaver/releases/tag/Build
 ##
 
 
-
 #### Videos will be added later!
-
-
-###### Video: URLpicSaver
-https://user-images.githubusercontent.com/33514265/206459207-a7c36844-7eb8-4cd3-a7a8-6ff37007d457.mp4
-
-###### Video: Color Themes
-https://github.com/ramitammela/URLpicSaver/assets/33514265/e54d3642-202f-4889-9573-8852029d07a9
-
-###### Video: Collections & how to name Collection
-https://github.com/ramitammela/URLpicSaver/assets/33514265/fcc169ef-c81a-407d-a22b-51d62f8c705a
-
-
 
 
 
